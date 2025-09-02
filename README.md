@@ -1,23 +1,25 @@
 # Quiz-1
 This will be for the questions that were recommended to use git-hub
-#question 1
+*******************
+
+#question 1 booleans
 x = (bool(True) + bool(True) - bool(False))
 print(x)
 *******************
 
-# question 2
+# question 2 logical_tracker booleans
 logical_tracker = True
 logical_tracker = logical_tracker | (logical_tracker - logical_tracker)
 print(logical_tracker)
 *******************
 
-# question 5
+# question 5 string
 string = "E. Coli"
 
 print(string[2])
 *******************
 
-# question 6
+# question 6 string
 #h no! My string has a typo!
 
 string = "I Bove python"
@@ -33,12 +35,12 @@ medication = ['1','2','3','4','5']     # number of medications all in the same v
 print(type(medication))    # class 'list' was the answer
 *******************
 
-# Question 8 BMI calculator
+# Question 8 BMI calculator combining variables
 susan_h = 1.58
 susan_w = 60
 susan_bmi = susan_w / (susan_h **2)    # bmi = wieght / heigh **2
 print(susan_bmi)
 *******************
 
-#question 10
+#question 10 str operators
 print("7" + "3")
